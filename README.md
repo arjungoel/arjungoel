@@ -1,5 +1,8 @@
 ### Hi, there 🤷‍♀️
 
+I am **Arjun Goel** <br>
+- Pronouns: He/Him <br>
+
 
 ## About me: 
 
@@ -9,4 +12,7 @@
 - I am also proficient in writing IAM policies following the concept of ***least privileged access***. <br>
 - Containerization Technologies **Docker**, **Kubernetes**, **Amazon EKS, ECS** etc. <br>
 - Programming Language I am using for majority of my projects is **Python** and its frameworks like **Flask**, **Django** & **FastAPI**. <br>
-- I have the experience of building CI/CD pipelines for mobile applications for both Android and iOS platforms using **Codemagic**
+- I have the experience of building CI/CD pipelines for mobile applications for both Android and iOS platforms using **Codemagic** <br>
+<br>
+
+## Connect with me:
