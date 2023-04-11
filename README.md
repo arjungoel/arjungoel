@@ -1,12 +1,10 @@
 ### Hi, there 🤷‍♀️
 
-I am **Arjun Goel** <br>
+I am <b>Arjun Goel</b>, an experienced AWS Cloud DevOps Engineer having 4.5 years of experience. <br><br>
 - Pronouns: He/Him <br>
 
 
 ## About me: 
-
-- I am an experienced AWS Cloud DevOps Engineer having 4.5 years of experience. <br>
 - I am very proficient in writing complex infrastructure code using IaC tools like **CloudFormation**, **Terraform**, **AWS CDK** etc. <br>
 - CI/CD pipelines using **Jenkins**, **GitHub Actions** & **AWS Code*** services. <br>
 - I am also proficient in writing IAM policies following the concept of ***least privileged access***. <br>
