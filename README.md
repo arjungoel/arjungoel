@@ -1,6 +1,6 @@
 ### Hi, there 🤷‍♀️
 
-I am <b>Arjun Goel</b>, an experienced AWS Cloud DevOps Engineer having 5 plus years of comprehensive experience. <br><br>
+I am <b>Arjun Goel</b>, an experienced **AWS Cloud DevOps Engineer** having 5 plus years of comprehensive experience. <br><br>
 - Pronouns: He/Him <br>
 
 ## About me: 
