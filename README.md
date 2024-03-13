@@ -14,6 +14,6 @@ I am <b>Arjun Goel</b>, an experienced AWS Cloud DevOps Engineer having 5 plus y
 <br>
 
 ## Connect with me:
-GitHub: https://www.github.com/arjungoel
-Medium: https://medium.com/@arjgl1995
-LinkedIn: https://www.linkedin.com/in/arjun-goel-20a693130/
+GitHub: https://www.github.com/arjungoel <br>
+Medium: https://medium.com/@arjgl1995 <br>
+LinkedIn: https://www.linkedin.com/in/arjun-goel-20a693130/ <br>
