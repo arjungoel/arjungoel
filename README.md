@@ -11,7 +11,6 @@ I am <b>Arjun Goel</b>, an experienced AWS Cloud DevOps Engineer having 5 plus y
 - Containerization Technologies **Docker**, **Kubernetes**, **Amazon ECR, EKS, ECS** etc. <br>
 - Had experience with **Python** and its frameworks like **Flask**, **Django** & **FastAPI** for writing automation scripts and web applications. <br>
 - Experience in building CI/CD pipelines for mobile apps for both Android and iOS platforms using **Codemagic** <br>
-<br>
 
 ## Connect with me:
 GitHub: https://www.github.com/arjungoel <br>
